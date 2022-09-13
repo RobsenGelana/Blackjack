@@ -1,1 +1,1 @@
-# Blackjack
+# A simple BlackJack game the user and the computer play together
